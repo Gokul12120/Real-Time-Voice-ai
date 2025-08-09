@@ -38,15 +38,6 @@ python app.py --mode file --file static/sample.wav
 
 ---
 
-## 🎥 Demo
-Here’s the real-time workflow in action (replace with your GIF/video):
-
-![Demo GIF](demo.gif)
-
-*(To record: use OBS or ScreenToGif and capture terminal + audio playback)*
-
----
-
 ## 🛠 Tech Stack
 - **Python 3.10+**
 - HuggingFace Transformers (DistilGPT-2)
