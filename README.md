@@ -17,7 +17,7 @@ This project is designed to **mimic real-time reasoning-oriented voice AI system
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/real_time_voice_ai.git
+git clone https://github.com/Gokul12120/Real-Time-Voice-ai.git
 cd real_time_voice_ai
 pip install -r requirements.txt
 ```
