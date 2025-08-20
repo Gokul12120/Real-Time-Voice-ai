@@ -1,0 +1,9 @@
+torch 
+transformers 
+accelerate 
+scipy 
+speechrecognition 
+pyaudio 
+huggingface_hub 
+numpy 
+sounddevice 
